@@ -1,0 +1,6 @@
+/home/lear/Downloads/BattleShip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lear/Downloads/BattleShip/cmake-build-debug/CMakeFiles/BattleShip.dir
+/home/lear/Downloads/BattleShip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lear/Downloads/BattleShip/cmake-build-debug/MVC/CMakeFiles/rebuild_cache.dir
+/home/lear/Downloads/BattleShip/cmake-build-debug/MVC/CMakeFiles/BattleshipMVC.dir
+/home/lear/Downloads/BattleShip/cmake-build-debug/MVC/CMakeFiles/edit_cache.dir

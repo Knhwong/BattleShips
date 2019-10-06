@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BattleShip.dir/main.cpp.o  -o BattleShip MVC/libBattleshipMVC.a 
